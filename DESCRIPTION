@@ -1,0 +1,10 @@
+Package: mytools
+Title: What the Package Does in One Line and Title Case
+Version: 0.0.0.900
+Authors@R: 
+    person("Tracy", "Grimes", , "tracy.grimes@wildlife.ca.gov", role = c("aut", "cre"))
+Description: Random set of functions for the Delta training.
+License: Apache License (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
